@@ -22,7 +22,6 @@ export const PageHead: React.FC<
 
   return (
     <Head>
-      <link rel="icon" href="public/Gosesummer-16.png" type="image/png">
       <meta charSet='utf-8' />
       <meta httpEquiv='Content-Type' content='text/html; charset=utf-8' />
       <meta
