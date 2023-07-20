@@ -1,19 +1,19 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "Gosesummer-blog",
+  "short_name": "Gose",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/Gosesummer-32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-128x128.png",
+      "src": "/Gosesummer-128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/favicon-192x192.png",
+      "src": "/Gosesummer-192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
