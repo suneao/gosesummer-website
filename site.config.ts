@@ -53,16 +53,8 @@ export default siteConfig({
   // navigationStyle: 'default'
   navigationStyle: 'custom',
   navigationLinks: [
-    {
-      title: 'HOME',
-      pageId: '187311c20ffc4380b702af86e2c5e65e',
-    {
-       title: 'About',
-       pageId: '504ed4c9fb3b46c4ad7fb62b53fe3cde'
-     },
-     {
-       title: 'Contact',
-       pageId: 'cc184efb1e414c30be541a79f3ca1bc5'
-     }
+    {title: 'HOME',pageId: '187311c20ffc4380b702af86e2c5e65e'},
+    {title: 'About',pageId: '504ed4c9fb3b46c4ad7fb62b53fe3cde'},
+    {title: 'Contact',pageId: 'cc184efb1e414c30be541a79f3ca1bc5'}
    ]
 })
