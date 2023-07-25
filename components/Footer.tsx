@@ -7,6 +7,7 @@ import { FaMastodon } from '@react-icons/all-files/fa/FaMastodon'
 import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
 import { FaYoutube } from '@react-icons/all-files/fa/FaYoutube'
 import { FaZhihu } from '@react-icons/all-files/fa/FaZhihu'
+import { FaBilibili } from '@react-icons/all-files/fa/FaBilibili'
 import { IoMoonSharp } from '@react-icons/all-files/io5/IoMoonSharp'
 import { IoSunnyOutline } from '@react-icons/all-files/io5/IoSunnyOutline'
 
