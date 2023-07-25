@@ -19,6 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'gosesummer',
   github: 'suneao',
+  zhihu: 'gosesummer',
   // linkedin: 'nope',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
