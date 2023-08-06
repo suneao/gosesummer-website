@@ -1,19 +1,19 @@
 {
-  "name": "Gosesummer-blog",
-  "short_name": "Gose",
+  "name": "Gosesummer",
+  "short_name": "GoseX",
   "icons": [
     {
-      "src": "/Gosesummer-32.png",
+      "src": "/favicon.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/Gosesummer-128.png",
+      "src": "/favicon-128x128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/Gosesummer-192.png",
+      "src": "/favicon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
