@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Gosesummer-page',
-  domain: 'gosesummer.eu.org',
+  domain: 'www.gosesummer.top',
   author: 'Gosesummer',
 
   // open graph metadata (optional)
